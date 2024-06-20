@@ -1,0 +1,10 @@
+#Implementaciones de Acciones
+1=org.unrn.utilizacion.AccionUno
+2=org.unrn.utilizacion.AccionDos
+
+#Implementaciones de Acciones
+acciones: org.unrn.utilizacion.AccionUno; org.unrn.utilizacion.AccionDos
+
+{   
+"acciones": ["org.unrn.utilizacion.AccionUno", "org.unrn.utilizacion.AccionDos"]
+}

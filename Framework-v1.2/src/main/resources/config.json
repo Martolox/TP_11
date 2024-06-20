@@ -1,0 +1,6 @@
+{
+  "acciones": [
+    "org.unrn.utilizacion.AccionUno",
+    "org.unrn.utilizacion.AccionDos"
+  ]
+}
